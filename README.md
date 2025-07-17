@@ -8,4 +8,4 @@ Colab Link to the Notebook: http://bit.ly/3GsWDQE
 
 Did You Have Kaggle Account?
 
-You can access the Notebook here: 
+You can access the Notebook here: https://bit.ly/3IzxVP5
